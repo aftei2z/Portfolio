@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'webfont';
+    src: url(/../DreamINC/font/bangna-new.ttf) format("truetype");
+	src: url(/../DreamINC/font/PajaritoFont-Regular.otf) format(otf);
+}
+body{
+	font-family: 'webfont';
+}
+.navbar-custom {
+    border: 2px;
+    height: 50px  !important;
+    background-color: #3b7fdc;
+    display: inline;
+
+}
+.floor{
+  background-color: #e22f65;
+  width: 100%;
+  height: 100%;
+}
+.main{     
+    position:fixed;
+    top:0px;
+    bottom:0px;
+    left:0px;
+    right:0px;
+}
